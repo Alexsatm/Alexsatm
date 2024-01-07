@@ -23,6 +23,4 @@ src="https://img.shields.io/github/followers/alexsatm?logo=github&style=for-the-
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexsatm&show_icons=true&locale=en&layout=compact " alt="alexsatm" /></p>
-
-<!--<a href="https://github.com/alexsatm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsatm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<a href="https://github.com/alexsatm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsatm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
