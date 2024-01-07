@@ -9,7 +9,7 @@
 
 ### ✍Связаться со мной:
 
-* ✉️  Вы можете связаться со мной [dzamilovaalbina2@gmail.com](mailto:dzamilovaalbina2@gmail.com)
+* ✉️  Вы можете связаться со мной [dzamilovaalbina2@gmail.com](mailto:alexsatmru@gmail.com)
 
 ---
 ### 🤝 Социальные сети:
