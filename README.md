@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=400 src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  />
+  <img width=400 src="coding-girl.gif"  />
 </div>
 
 ###
